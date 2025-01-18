@@ -1,6 +1,9 @@
+## Oi 😊, meu nome é Carlos
+🌱 Atualmente estou aprendendo sobre análise de dados e visualização: Python e SQL
 
+💬 Pergunte me sobre: Python, SQL, Power BI e Excel
 
-
+📫 Você me encontra através do e-mail: carlosdiegocd@gmail.com
 
 
 
