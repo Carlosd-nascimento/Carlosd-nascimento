@@ -1,5 +1,5 @@
 ## Oi 😊, meu nome é Carlos
-🌱 Atualmente estou aprendendo sobre análise de dados e visualização: Python e SQL
+🌱 Atualmente estou aprendendo sobre análise de dados e visualização: Python, SQL e Power BI
 
 💬 Pergunte me sobre: Python, SQL, Power BI e Excel
 
