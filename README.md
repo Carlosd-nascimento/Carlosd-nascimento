@@ -5,6 +5,8 @@
 
 📫 Você me encontra através do e-mail: carlosdiegocd@gmail.com
 
+📫 LinkedIn: www.linkedin.com/in/carlosdiego-nascimento
+
 
 
 
