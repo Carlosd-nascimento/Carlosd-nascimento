@@ -4,6 +4,7 @@
 💬 Pergunte me sobre: Python, SQL, Power BI e Excel
 
 📫 Você me encontra através do e-mail: carlosdiegocd@gmail.com
+
 📫 LinkedIn: www.linkedin.com/in/carlosdiego-nascimento
 
 
