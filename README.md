@@ -1,4 +1,4 @@
-## Oi 😊, meu nome é Carlos
+## Oi, meu nome é Carlos
 🌱 Atualmente estou aprendendo sobre análise de dados e visualização com as seguintes tecnologias:
 - Excel
 - Python
