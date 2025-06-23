@@ -1,9 +1,9 @@
 ## Oi 😊, meu nome é Carlos
 🌱 Atualmente estou aprendendo sobre análise de dados e visualização com as seguintes tecnologias:
--Excel
--Python
--SQL
--Power BI
+- Excel
+- Python
+- SQL
+- Power BI
 
 💬 Pergunte me sobre: Python, SQL, Power BI e Excel
 
