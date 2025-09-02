@@ -1,28 +1,38 @@
-## Oi, meu nome é Carlos
-🌱 Atualmente estou aprendendo sobre análise de dados e visualização com as seguintes tecnologias:
-- Excel
-- Python
-- SQL
-- Power BI
+👋 Olá, eu sou Carlos Diego
 
-💬 Pergunte me sobre: Python, SQL, Power BI e Excel
+Aspirante a Engenheiro de Dados | Apaixonado por transformar dados em insights 🚀
 
-📫 Você me encontra através do e-mail: carlosdiegocd@gmail.com
+🌱 ##Sobre Mim
 
+Aprendendo Python 🐍, SQL 🗄️ e BigQuery ☁️
 
+Explorando ETL, pipelines e modelagem de dados 🔄
 
+Conhecimentos em Power BI 📊, Looker Studio 📈 e visualização de dados
 
+Motivado por aprender, praticar e compartilhar conhecimento 💡
 
-<!---
-- 👋 Hi, I’m @Carlosd-nascimento
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Projetos em Destaque
 
-<!---
-Carlosd-nascimento/Carlosd-nascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Análise de Dados – Exploração e visualização de dados usando Python e Power BI
+
+🔄 Pipeline de Dados Simples – Criação de ETL e fluxo de dados usando BigQuery
+
+🤖 Automação com Python – Scripts para limpeza e organização de dados
+
+⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.
+
+🛠️ Habilidades
+Linguagens	Ferramentas	Conceitos
+Python 🐍	BigQuery ☁️	ETL 🔄
+SQL 🗄️	Power BI 📊	Data Warehouse 🏗️
+	Looker Studio 📈	Modelagem de Dados 📐
+	SQL Server 🖥️	Pipelines de Dados 🔧
+	MySQL 🖥️	Análise de Dados 📊
+	Google Colab ☁️	Notebooks Jupyter 📓
+	Jupyter Notebook 📓	Limpeza e Transformação de Dados ✨
+📫 Contato
+
+✉️ E-mail: carlosdiegocd@gmail.com
+
+🔗 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/carlosdiego-nascimento)
