@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou Carlos Diego
 
-Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insights 🚀
+Engenheiro de Dados | Aprendizado contínuo e apaixonado por transformar dados em insights 🚀
+---
+[![Email](https://img.shields.io/badge/Email-carlosdiegocd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdiegocd@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Diego%20Nascimento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosdiego-nascimento) 
 
 ---
 
@@ -48,10 +51,3 @@ Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insigh
 ![Pipelines](https://img.shields.io/badge/Pipelines-F2C811?style=for-the-badge)  
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-4285F4?style=for-the-badge)  
 
-
----
-
-## 📫 Contato
-
-[![Email](https://img.shields.io/badge/Email-carlosdiegocd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdiegocd@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Diego%20Nascimento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosdiego-nascimento)  
