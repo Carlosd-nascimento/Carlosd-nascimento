@@ -35,4 +35,4 @@ SQL 🗄️	Power BI 📊	Data Warehouse 🏗️
 
 ✉️ E-mail: carlosdiegocd@gmail.com
 
-🔗 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/carlosdiego-nascimento)
+🔗 LinkedIn: [www.linkedin.com/in/carlosdiego-nascimento](https://www.linkedin.com/in/carlosdiego-nascimento)
