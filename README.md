@@ -8,64 +8,6 @@ Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insigh
 - Aprendendo **Python 🐍, SQL 🗄️ e BigQuery ☁️**  
 - Explorando **ETL, pipelines e modelagem de dados 🔄**  
 - Conhecimentos em **Power BI 📊, Looker Studio 📈 e visualização de dados**  
-- Motivado por **aprender, praticar e compartilhar conhecimento 💡**
-
----
-
-## 💻 Projetos em Destaque
-- **📊 Análise de Dados** – Exploração e visualização de dados usando Python e Power BI  
-- **🔄 Pipeline de Dados Simples** – Criação de ETL e fluxo de dados usando BigQuery  
-- **🤖 Automação com Python** – Scripts para limpeza e organização de dados  
-
-> ⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.
-
----
-
-## 🛠️ Habilidades
-
-| Linguagens      | Ferramentas            | Conceitos                         |
-|-----------------|----------------------|----------------------------------|
-| Python 🐍       | BigQuery ☁️          | ETL 🔄                            |
-| SQL 🗄️         | Power BI 📊          | Data Warehouse 🏗️                  |
-|                 | Looker Studio 📈      | Modelagem de Dados 📐           |
-|                 | SQL Server 🖥️        | Pipelines de Dados 🔧            |
-|                 | MySQL 🖥️            | Análise de Dados 📊               |
-|                 | Google Colab ☁️      |                                   |
-|                 | Jupyter Notebook 📓   |                                  |
-
----
-
-## 📫 Contato
-- ✉️ E-mail: carlosdiegocd@gmail.com  
-- 🔗 LinkedIn: [Meu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlosdiego-nascimento))  
-- 🐱 GitHub: [Seu GitHub](https://github.com/seu-usuario)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👋 Olá, eu sou Carlos Nascimento
-
-Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insights 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
-
----
-
-## 🌱 Sobre Mim
-- Aprendendo **Python 🐍, SQL 🗄️ e BigQuery ☁️**  
-- Explorando **ETL, pipelines e modelagem de dados 🔄**  
-- Conhecimentos em **Power BI 📊, Looker Studio 📈 e visualização de dados**  
 - Noções de **DAX, Power Query (M), HTML/CSS e JavaScript básico**  
 - Motivado por **aprender, praticar e compartilhar conhecimento 💡**
 
@@ -80,7 +22,7 @@ Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insigh
 
 ---
 
-## 🛠️ Minhas Skills
+## 🛠️ Habilidades
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
@@ -106,9 +48,16 @@ Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insigh
 ![Pipelines](https://img.shields.io/badge/Pipelines-F2C811?style=for-the-badge)  
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-4285F4?style=for-the-badge)  
 
+
 ---
 
 ## 📫 Contato
-- ✉️ E-mail: seuemail@email.com  
-- 🔗 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)  
+- ✉️ E-mail: carlosdiegocd@gmail.com  
+- 🔗 LinkedIn: [Meu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlosdiego-nascimento))  
 - 🐱 GitHub: [Seu GitHub](https://github.com/seu-usuario)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
+
+
