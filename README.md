@@ -12,7 +12,7 @@ Conhecimentos em Power BI 📊, Looker Studio 📈 e visualização de dados
 
 Motivado por aprender, praticar e compartilhar conhecimento 💡
 
-💻 Projetos em Destaque
+💻 Projetos em Destaque - PRECISO SUBIR
 
 📊 Análise de Dados – Exploração e visualização de dados usando Python e Power BI
 
