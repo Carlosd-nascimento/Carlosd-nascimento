@@ -5,7 +5,7 @@ Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insigh
 ---
 
 ## 🌱 Sobre Mim
-- Aprendendo **Python 🐍, SQL 🗄️ e BigQuery ☁️**  
+- Aprendendo **SQL🗄️, Python🐍 e BigQuery☁️**  
 - Explorando **ETL, pipelines e modelagem de dados 🔄**  
 - Conhecimentos em **Power BI 📊, Looker Studio 📈 e visualização de dados**  
 - Noções de **DAX, Power Query (M), HTML/CSS e JavaScript básico**  
@@ -13,10 +13,10 @@ Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insigh
 
 ---
 
-## 💻 Projetos em Destaque
-- **📊 Análise de Dados** – Exploração e visualização de dados usando Python e Power BI  
+## 💻 Projetos
 - **🔄 Pipeline de Dados Simples** – Criação de ETL e fluxo de dados usando BigQuery  
-- **🤖 Automação com Python** – Scripts para limpeza e organização de dados  
+- **🤖 Automação com Python** – Scripts para limpeza e organização de dados
+- **📊 Análise de Dados** – Exploração e visualização de dados usando Python e Power BI   
 
 > ⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.
 
@@ -52,6 +52,6 @@ Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insigh
 ---
 
 ## 📫 Contato
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdiegocd@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlosdiego-nascimento))  
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdiegocd@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlosdiego-nascimento))  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlosd-nascimento)
