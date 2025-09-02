@@ -1,38 +1,41 @@
-👋 Olá, eu sou Carlos Diego
+# 👋 Olá, eu sou Carlos Diego
 
-Aspirante a Engenheiro de Dados | Apaixonado por transformar dados em insights 🚀
+Aspirante a **Engenheiro de Dados** | Apaixonado por transformar dados em insights 🚀
 
-🌱 ##Sobre Mim
+---
 
-Aprendendo Python 🐍, SQL 🗄️ e BigQuery ☁️
+## 🌱 Sobre Mim
+- Aprendendo **Python 🐍, SQL 🗄️ e BigQuery ☁️**  
+- Explorando **ETL, pipelines e modelagem de dados 🔄**  
+- Conhecimentos em **Power BI 📊, Looker Studio 📈 e visualização de dados**  
+- Motivado por **aprender, praticar e compartilhar conhecimento 💡**
 
-Explorando ETL, pipelines e modelagem de dados 🔄
+---
 
-Conhecimentos em Power BI 📊, Looker Studio 📈 e visualização de dados
+## 💻 Projetos em Destaque
+- **📊 Análise de Dados** – Exploração e visualização de dados usando Python e Power BI  
+- **🔄 Pipeline de Dados Simples** – Criação de ETL e fluxo de dados usando BigQuery  
+- **🤖 Automação com Python** – Scripts para limpeza e organização de dados  
 
-Motivado por aprender, praticar e compartilhar conhecimento 💡
+> ⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.
 
-💻 Projetos em Destaque - PRECISO SUBIR
+---
 
-📊 Análise de Dados – Exploração e visualização de dados usando Python e Power BI
+## 🛠️ Habilidades
 
-🔄 Pipeline de Dados Simples – Criação de ETL e fluxo de dados usando BigQuery
+| Linguagens      | Ferramentas            | Conceitos                         |
+|-----------------|----------------------|----------------------------------|
+| Python 🐍       | BigQuery ☁️          | ETL 🔄                            |
+| SQL 🗄️         | Power BI 📊          | Data Warehouse 🏗️                |
+|                 | Looker Studio 📈      | Modelagem de Dados 📐             |
+|                 | SQL Server 🖥️        | Pipelines de Dados 🔧            |
+|                 | MySQL 🖥️            | Análise de Dados 📊               |
+|                 | Google Colab ☁️      | Notebooks Jupyter 📓              |
+|                 | Jupyter Notebook 📓   | Limpeza e Transformação de Dados ✨ |
 
-🤖 Automação com Python – Scripts para limpeza e organização de dados
+---
 
-⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.
-
-🛠️ Habilidades
-Linguagens	Ferramentas	Conceitos
-Python 🐍	BigQuery ☁️	ETL 🔄
-SQL 🗄️	Power BI 📊	Data Warehouse 🏗️
-	Looker Studio 📈	Modelagem de Dados 📐
-	SQL Server 🖥️	Pipelines de Dados 🔧
-	MySQL 🖥️	Análise de Dados 📊
-	Google Colab ☁️	Notebooks Jupyter 📓
-	Jupyter Notebook 📓	Limpeza e Transformação de Dados ✨
-📫 Contato
-
-✉️ E-mail: carlosdiegocd@gmail.com
-
-🔗 LinkedIn: [www.linkedin.com/in/carlosdiego-nascimento](https://www.linkedin.com/in/carlosdiego-nascimento)
+## 📫 Contato
+- ✉️ E-mail: carlosdiegocd@gmail.com  
+- 🔗 LinkedIn: [Meu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlosdiego-nascimento))  
+- 🐱 GitHub: [Seu GitHub](https://github.com/seu-usuario)
